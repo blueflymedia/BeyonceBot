@@ -1,4 +1,6 @@
-# Telegram-JavaScript-Bot
+# BeyonceBot for Telegram
+
+If anyone deserves to have a bot named after them, it is Beyonce. She is the Queen.
 
 This repository is a template for creating a Telegram bot in JavaScript. It uses [grammY](https://grammy.dev)
 
